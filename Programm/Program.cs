@@ -6,7 +6,7 @@
 //[“1234”, “1567”, “-2”, “computer science”] → [“-2”]
 //[“Russia”, “Denmark”, “Kazan”] → []
 
-string[] arr1 = new string[3] {"Rus", ":-)", "Kaz"};
+string[] arr1 = new string[3] {"Russia", "Denmark", "Kazan"};
 string[] arr2 = new string[arr1.Length];
 void NewArr(string[] arr1, string[] arr2)
 {
