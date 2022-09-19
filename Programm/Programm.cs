@@ -16,7 +16,6 @@ void NewArr(string[] arr1, string[] arr2)
     if(arr1[i].Length <= 3) arr2[count] = arr1[i]; count++;    
     }
 }
-
 void PrintArr(string[] arr)
 {
     for (int i = 0; i < arr.Length; i++)
